@@ -1,0 +1,16 @@
+{
+  "name": "rn_simple",
+  "version": "0.0.1",
+  "description": "simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "ylp",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.61.5"
+  }
+}
